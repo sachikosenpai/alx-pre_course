@@ -1,1 +1,2 @@
-My first readme
+how to stay up to date on git hub
+

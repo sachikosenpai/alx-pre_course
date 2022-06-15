@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 "cool,all my changes will now be part of the main branch,ready to be deployed"!
+=======
+awesome awesome 
+#!/bin/bash
+echo"ALX School"
+>>>>>>> update_script
